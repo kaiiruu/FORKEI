@@ -86,3 +86,12 @@ h1 {
   font-size: 40px;
   color: rgb(230, 221, 221);
 }
+
+h4 {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  color: rgb(230, 221, 221);
+}
